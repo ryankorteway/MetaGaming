@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+dMk9Jc9f8LMCWeg13zWYv4IsbkYl9jrhSpvQORmrJWo95jRApehn+8TgLPZ5qu9/qsuOvrpr87bdMqZ+ssHvw==",
+  "success": true,
+  "projectFilePath": "/home/ryankorteway/MetaGaming/MetaGaming.csproj",
+  "expectedPackageFiles": [
+    "/home/ryankorteway/.nuget/packages/microsoft.netcore.app.runtime.win-x64/6.0.16/microsoft.netcore.app.runtime.win-x64.6.0.16.nupkg.sha512",
+    "/home/ryankorteway/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/6.0.16/microsoft.aspnetcore.app.runtime.win-x64.6.0.16.nupkg.sha512",
+    "/home/ryankorteway/.nuget/packages/microsoft.netcore.app.host.win-x64/6.0.16/microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

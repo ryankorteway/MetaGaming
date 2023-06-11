@@ -1,0 +1,5 @@
+/home/ryankorteway/MetaGaming/bin/Release/net6.0/publish/MetaGaming
+/home/ryankorteway/MetaGaming/bin/Release/net6.0/publish/MetaGaming.dll
+/home/ryankorteway/MetaGaming/bin/Release/net6.0/publish/MetaGaming.deps.json
+/home/ryankorteway/MetaGaming/bin/Release/net6.0/publish/MetaGaming.runtimeconfig.json
+/home/ryankorteway/MetaGaming/bin/Release/net6.0/publish/MetaGaming.pdb

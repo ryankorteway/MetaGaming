@@ -1,0 +1,15 @@
+/home/ryankorteway/MetaGaming/bin/Release/net6.0/MetaGaming
+/home/ryankorteway/MetaGaming/bin/Release/net6.0/MetaGaming.deps.json
+/home/ryankorteway/MetaGaming/bin/Release/net6.0/MetaGaming.runtimeconfig.json
+/home/ryankorteway/MetaGaming/bin/Release/net6.0/MetaGaming.dll
+/home/ryankorteway/MetaGaming/bin/Release/net6.0/MetaGaming.pdb
+/home/ryankorteway/MetaGaming/obj/Release/net6.0/MetaGaming.csproj.AssemblyReference.cache
+/home/ryankorteway/MetaGaming/obj/Release/net6.0/MetaGaming.GeneratedMSBuildEditorConfig.editorconfig
+/home/ryankorteway/MetaGaming/obj/Release/net6.0/MetaGaming.AssemblyInfoInputs.cache
+/home/ryankorteway/MetaGaming/obj/Release/net6.0/MetaGaming.AssemblyInfo.cs
+/home/ryankorteway/MetaGaming/obj/Release/net6.0/MetaGaming.csproj.CoreCompileInputs.cache
+/home/ryankorteway/MetaGaming/obj/Release/net6.0/MetaGaming.dll
+/home/ryankorteway/MetaGaming/obj/Release/net6.0/refint/MetaGaming.dll
+/home/ryankorteway/MetaGaming/obj/Release/net6.0/MetaGaming.pdb
+/home/ryankorteway/MetaGaming/obj/Release/net6.0/MetaGaming.genruntimeconfig.cache
+/home/ryankorteway/MetaGaming/obj/Release/net6.0/ref/MetaGaming.dll
